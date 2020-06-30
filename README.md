@@ -1,5 +1,5 @@
 # Krunker-Java-Plus-NEW
-Krunker 2.4.9 Hax include Chams!!
+Krunker 2.4.9 Hax include Chams and 3D ESP!!
 __________________________________
 Krunker new mod menu
 __________________________________
