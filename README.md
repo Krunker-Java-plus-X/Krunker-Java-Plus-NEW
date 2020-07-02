@@ -10,8 +10,6 @@ __________________________________
 __________________________________
 Download this [video](https://github.com/Krunker-Java-plus-X/Krunker-Java-Plus-NEW/raw/master/Krunker%20HAX%20video/Krunker%20HAX.mp4)
 and please watch!!
-
-Then you can see the how hax work!
 __________________________________
 :AimBot is 2.5.8 code so I don't know it work or it not work
 __________________________________
