@@ -1,5 +1,5 @@
 # Krunker-Java-Plus-NEW
-Krunker 2.4.9 Hax include Chams and 3D ESP!!
+Krunker 2.6.1 Hax include Chams and 3D ESP!!
 __________________________________
 Krunker new mod menu
 __________________________________
@@ -11,7 +11,7 @@ __________________________________
 Download this [video](https://github.com/Krunker-Java-plus-X/Krunker-Java-Plus-NEW/raw/master/Krunker%20HAX%20video/Krunker%20HAX.mp4)
 and watch it !!
 __________________________________
->Krunker.io Hack v2.5.9✔️
+>Krunker.io Hack v2.6.1✔️
 __________________________________
 >KRUNKER JAVA PLUS 𝓧 future plans 
 - Make Krunker AimBot HAX - Make Krunker Extension HAX
